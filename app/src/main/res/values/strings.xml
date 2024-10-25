@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Actividad8Uf1</string>
+    <string name="Matriculación">Matriculación</string>
+    <string name="Lengua">Lengua</string>
+    <string name="Química">Química</string>
+    <string name="Historia">Historia</string>
+    <string name="Mañana">Mañana</string>
+    <string name="Tarde">Tarde</string>
+    <string name="Confirmar">Confirmar</string>
+</resources>
